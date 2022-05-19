@@ -3,7 +3,7 @@
         "cache_dependancies": true
     },
     "deploy": {
-        "module": "appointment:wsgi:application",
+        "module": "appointment.wsgi:application",
         "managetasks": [
             "collectstatic --noinput"
         ]

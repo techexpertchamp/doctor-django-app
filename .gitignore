@@ -1,3 +1,5 @@
 /doctor_app_env/
 /.idea/
 /media/
+/.env/
+.env
